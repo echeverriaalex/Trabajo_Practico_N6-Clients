@@ -1,0 +1,10 @@
+.container-table{
+    margin: 20px 20px;
+}
+
+button{
+    margin: 0px 10px;
+    padding: 2px 10px;
+    text-align: center;
+    width: 80px;
+}
